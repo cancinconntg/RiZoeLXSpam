@@ -9,7 +9,7 @@ _RIZOEL_MAIN() {
     $(_python_ 'from git import Repo
 import sys
 
-_UPSTREAM_ = "https://github.com/RiZoeLX/plugins"
+_UPSTREAM_ = "https://github.com/cancinconntg/plugins"
 _BRANCH_ = "main"
 
 repo = Repo.init()
